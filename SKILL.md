@@ -101,6 +101,9 @@ python3 scripts/qzone_photos.py --action create --title "我的新相册" --cook
 }
 ```
 
+![](./image/image1.png)
+![](./image/image2.png)
+
 ### 获取方式
 
 - **推荐**：使用 `--action login` 扫码登录，Cookie 自动保存
